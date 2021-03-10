@@ -7,5 +7,5 @@ An adapter to load Arduino code onto the ATtiny85 chip, using an Uno as the prog
 ## ESProg – [Hackster project](https://www.hackster.io/glowascii/ouija-esp8266-programmer-d2c033)
 An adapter to load Arduino code onto the ESP-01 module (ESP8266), using an FTDI cable, based on a circuit shared by Alasdair Allan in [Make Magazine](https://makezine.com/2015/04/01/installing-building-arduino-sketch-5-microcontroller/). The board art is partially traced from a public-domain illustration of [nasturtiums](https://www.oldbookillustrations.com/illustrations/nasturtium/), by Maurice Pillard Verneuil.
 
-## quarles' ruler
+## Quarles' ruler
 A PCB ruler designed to be produced using OSH Park's [After Dark](https://docs.oshpark.com/services/afterdark/) and Flex stack-ups. Featuring two public-domain images from [Quarles' Emblems](https://www.oldbookillustrations.com/titles/quarles-emblems/).
